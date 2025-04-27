@@ -12,6 +12,16 @@ console.table([accountName,accountEmail,accountId,accountpassword,accountCity,ac
 /*
 prefer not use var
 because of issue in block scope and functional scope*/
+
+
+/*
+const can't be reassigned or redeclared it is fixed
+let can't be redeclared again but it can reassign 
+var can be redeclared and reassigned ;
+
+let a; declaration
+a=10;   assignment /initialization 
+ */
  
 
 
